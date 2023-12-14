@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/C5616AQG376JraamXZQ/profile-displaybackgroundimage-shrink_200_800/0/1625149958047?e=2147483647&v=beta&t=VKt2dfbg3oZxJGZQox0PbbbihbcSEcZIPCvadvnN9tg)
 <h1 align="center">Hi 👋, I'm Colin</h1>
-<h3 align="center">A passionate Cloud/DevOps Engineer from The Netherlands</h3>
+<h3 align="center">A passionate Cloud Engineer from The Netherlands</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeindbaaz&label=Profile%20views&color=0e75b6&style=flat" alt="deeindbaaz" /> </p>

@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeindbaaz&label=Profile%20views&color=0e75b6&style=flat" alt="deeindbaaz" /> </p>
 
-- 🔭 I’m currently working on [Serverless Movies API]([https://github.com/DeEindbaaz/monitoring-app-azure](https://github.com/DeEindbaaz/Serverless-Movies-API))
+- 🔭 I’m currently working on [Serverless Movies API]([https://github.com/DeEindbaaz/monitoring-app-azure](https://github.com/DeEindbaaz/Serverless-Movies-API)
 
 - 👨‍💻 All of my projects are available at [https://github.com/DeEindbaaz](https://github.com/DeEindbaaz)
 
